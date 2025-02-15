@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 # Next.js Product Store
-A simple next.js web app that fetches data from a public api to display, filter and search by name of shop products.
+A simple next.js web app that fetches data from a public api to display, filter and search by the name of shop products.
 
 ## Features
 - Fetches products from FakeStoreAPI
@@ -11,7 +11,7 @@ A simple next.js web app that fetches data from a public api to display, filter 
 
 ## Installation
 ```sh
-git clone https://github.com/your-username/nextjs-product-store.git
-cd nextjs-product-store
+git clone https://github.com/Nardos-Amakele/shopApp
+cd frontend-assessment
 npm install
 npm run dev
