@@ -12,6 +12,6 @@ A simple next.js web app that fetches data from a public api to display, filter 
 ## Installation
 ```sh
 git clone https://github.com/Nardos-Amakele/shopApp
-cd frontend-assessment
+cd shop
 npm install
 npm run dev
